@@ -1,0 +1,50 @@
+{
+  "result": [
+    {
+      "token_address": "0xe1b322d47b9c40801d1ee84e73fea7fef778f6ee",
+      "token_id": "301",
+      "id": "0x58adb2f4c6edf507a8d34f34a0069c76bfae5472131d4dd4e0c61baec7ee473d",
+      "user": "0x58253e5cf740ca9c184a3f38175b16e0b0c80671",
+      "status": "imx",
+      "uri": null,
+      "name": "TAD NFT #301",
+      "description": null,
+      "image_url": null,
+      "metadata": {
+        "name": "TAD NFT #301",
+        "skin": "yellow",
+        "collectable": true
+      },
+      "collection": {
+        "name": "The Aliens Demo",
+        "icon_url": "https://tfad.trieudo.net/images/imx.png"
+      },
+      "created_at": "2021-11-17T07:37:47.634784Z",
+      "updated_at": "2021-11-17T07:41:40.5364Z"
+    },
+    {
+      "token_address": "0xe1b322d47b9c40801d1ee84e73fea7fef778f6ee",
+      "token_id": "300",
+      "id": "0x00783be273e01155735e5fd437e4cd575ae5c20dc30b252399208d0d5a81a0da",
+      "user": "0x58253e5cf740ca9c184a3f38175b16e0b0c80671",
+      "status": "imx",
+      "uri": null,
+      "name": "TAD NFT #300",
+      "description": null,
+      "image_url": null,
+      "metadata": {
+        "name": "TAD NFT #300",
+        "skin": "green",
+        "collectable": true
+      },
+      "collection": {
+        "name": "The Aliens Demo",
+        "icon_url": "https://tfad.trieudo.net/images/imx.png"
+      },
+      "created_at": "2021-11-17T02:23:54.26673Z",
+      "updated_at": "2021-11-17T07:26:17.616621Z"
+    }
+  ],
+  "cursor": "eyJjb250cmFjdF9hZGRyZXNzIjoiMHhlMWIzMjJkNDdiOWM0MDgwMWQxZWU4NGU3M2ZlYTdmZWY3NzhmNmVlIiwiaWQiOiIweDAwNzgzYmUyNzNlMDExNTU3MzVlNWZkNDM3ZTRjZDU3NWFlNWMyMGRjMzBiMjUyMzk5MjA4ZDBkNWE4MWEwZGEiLCJjbGllbnRfdG9rZW5faWQiOiIzMDAiLCJvd25lcl9hZGRyZXNzIjoiMHg1ODI1M2U1Y2Y3NDBjYTljMTg0YTNmMzgxNzViMTZlMGIwYzgwNjcxIiwic3RhdHVzIjoiaW14IiwidXJpIjpudWxsLCJuYW1lIjoiVEFEIE5GVCAjMzAwIiwiZGVzY3JpcHRpb24iOm51bGwsImltYWdlX3VybCI6bnVsbCwibWV0YWRhdGEiOnsibmFtZSI6IlRBRCBORlQgIzMwMCIsInNraW4iOiJncmVlbiIsImNvbGxlY3RhYmxlIjp0cnVlfSwibGFzdF9tZXRhZGF0YV9yZWZyZXNoX3RpbWUiOjE2MzcxMTU4OTcsImxhc3RfdXBkYXRlX3RyYW5zYWN0aW9uX2hhc2giOm51bGwsImxhc3RfdXBkYXRlX2Jsb2NrX251bWJlciI6bnVsbCwiY3JlYXRlZF9hdCI6IjIwMjEtMTEtMTdUMDI6MjM6NTQuMjY2NzNaIiwidXBkYXRlZF9hdCI6IjIwMjEtMTEtMTdUMDc6MjY6MTcuNjE2NjIxWiIsImNvbGxlY3Rpb25fbmFtZSI6IlRoZSBBbGllbnMgRGVtbyIsImNvbGxlY3Rpb25faWNvbl91cmwiOiJodHRwczovL3RmYWQudHJpZXVkby5uZXQvaW1hZ2VzL2lteC5wbmciLCJTZWxsT3JkZXIiOm51bGwsIkJ1eU9yZGVyIjpudWxsLCJvcmlnaW5hdG9yX2FkZHJlc3MiOiIiLCJmZWVfcGVyY2VudGFnZSI6MCwiVHN2IjoiIn0",
+  "remaining": 0
+}
