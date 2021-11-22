@@ -64,20 +64,20 @@ const MintNFT = () => {
           {
             from: params.user_address,
             to: "0x3b77265B999E4D2595b6f960510905BBfFCEf149",
-            value: ethers.utils.parseEther((total * 0.001).toString())._hex,
+            value: ethers.utils.parseEther((0.001).toString())._hex,
           },
         ],
       })
       .then((txHash: any) => {
         console.log('txHash: ', txHash);
-        loadAssetsUser();
+        loadAssetsUser(txHash);
       })
       .catch((error: any) => console.error);
   };
 
 
 
-  const loadAssetsUser = async () => {
+  const loadAssetsUser = async (txHash: string) => {
     setCheckTransaction(true);
     
     try {
@@ -85,6 +85,7 @@ const MintNFT = () => {
         'user_address': params.user_address,
         'total': total,
         'current_id': MyStorage.idAsset,
+        'txHash': txHash,
       }).then(() => {
         MyStorage.idAsset = MyStorage.idAsset + total;
       });
